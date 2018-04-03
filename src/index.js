@@ -1,6 +1,6 @@
 
 import sweetalert from 'sweetalert2';
-import 'sweetalert2/dist/sweetalert2.min.css';
+import './sweetalert2.css';
 
 import assign from 'lodash.assign';
 
