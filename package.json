@@ -32,7 +32,7 @@
   "homepage": "https://github.com/seiyria/ng2-sweetalert2#readme",
   "dependencies": {
     "lodash.assign": "^4.0.8",
-    "sweetalert2": "^5.2.0"
+    "sweetalert2": "^7.18.0"
   },
   "peerDependencies": {
     "@angular/platform-browser": "^4.2.5"
